@@ -6,5 +6,5 @@ In order to get myself into a groove of producing narratives, video storytelling
 
 Please enjoy these vids on my IG 🧚‍♀️
 
-[May 01 - Bombay Beach](https://www.instagram.com/p/Cr8l_cqNYSs/)
-[May 07 - Roadtrip up to SF](https://www.instagram.com/p/CsP7NknuX3M/)
+- [May 01 - Bombay Beach](https://www.instagram.com/p/Cr8l_cqNYSs/)
+- [May 07 - Roadtrip up to SF](https://www.instagram.com/p/CsP7NknuX3M/)
