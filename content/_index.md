@@ -1,27 +1,30 @@
 ---
-title: 🪴 Quartz 3.3
+title: Syntonikka
 enableToc: false
 ---
+![[ASSETS/profile.png]]
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+*Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, Music Production, DAO Consultancy and Fire Spinning.*
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+----
+## Currently I'm Busy with...
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+- [[PAGES/Life.Journal|Life.Journal]]
+-------
+## Agartha
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+**[Agartha.One](https://agartha.one)** is a global map of solarpunk, artistic, coliving communities, designed for curious minds to explore communal lifestyles outside of societal default.
+> *Leave the matrix with friends 🫂. Leave the matrix with styles 😎.*
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+----
+## Mars College
+[Mars College](https://mars.college/) is an artist residency & coliving community on the theme of radical self reliance, desert uniwheel riding, van life constructing and local knowledge exchange at the intersection of art and technology. It is where you'll find me at least 25% time of the year.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+----
+## Creative Work 🦭
+- [[PAGES/SUBPAGES/Games 🕹️|Games 🕹️]]
+- [[PAGES/SUBPAGES/Music 🎹|Music 🎹]]
+- [[PAGES/SUBPAGES/Visual Arts 🦚|Visual Arts 🦚]]
+- [[PAGES/SUBPAGES/Regeneration 🌱|Regeneration 🌱]]
+- [[PAGES/SUBPAGES/Web 🌐|Web 🌐]]
+- [[PAGES/SUBPAGES/Augmented Reality 👻|Augmented Reality 👻]]
