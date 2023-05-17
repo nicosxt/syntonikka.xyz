@@ -14,6 +14,7 @@ enableToc: false
 ----
 ## Currently I'm Busy with...
 
+- Album Release - [**Loop.One**](https://syntonikka.bandcamp.com/album/loop-one) 🎉
 - [[PAGES/Life.Journal|Life.Journal]]
 -------
 ## Agartha
