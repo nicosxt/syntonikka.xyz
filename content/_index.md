@@ -4,7 +4,9 @@ enableToc: false
 ---
 
 <div style="width: 30%; margin: 0 auto">
+
 ![[ASSETS/profile.png]]
+
 </div>
 
 *Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, Music Production, DAO Consultancy and Fire Spinning.*
@@ -31,3 +33,5 @@ enableToc: false
 - [[PAGES/SUBPAGES/Regeneration|Regeneration 🌱]]
 - [[PAGES/SUBPAGES/Web|Web 🌐]]
 - [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
+
+----
