@@ -85,7 +85,7 @@
           {{$content = replace $content . $link}}
         <!-- Video -->
         {{else if in ".mp4 .webm .ogv .mov .mkv" $embed_ext}}
-          {{$link := printf "<video src=\"%s\" style=\"width: -webkit-fill-available;\" controls></video>" $href}}
+          {{$link := printf "<video src=\"%s\" style=\"width: -webkit-fill-available;\" controls autoplay></video>" $href}}
           {{$content = replace $content . $link}}
         <!-- Audio -->
         {{else if in ".mp3 .webm .wav .m4a .ogg .3gp .flac" $embed_ext}}

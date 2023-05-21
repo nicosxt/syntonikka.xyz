@@ -13,19 +13,8 @@ enableToc: false
 
 ----
 ## Currently I'm Busy with...
-
 - Album Release - [**Loop.One**](https://syntonikka.bandcamp.com/album/loop-one) 🎉
-- [[PAGES/Life.Journal|Life.Journal]]
--------
-## Agartha
-
-**[Agartha.One](https://agartha.one)** is a global map of solarpunk, artistic, coliving communities, designed for curious minds to explore communal lifestyles outside of societal default.
-> *Leave the matrix with friends 🫂. Leave the matrix with styles 😎.*
-
-----
-## Mars College
-[Mars College](https://mars.college/) is an artist residency & coliving community on the theme of radical self reliance, desert uniwheel riding, van life constructing and local knowledge exchange at the intersection of art and technology. It is where you'll find me at least 25% time of the year.
-
+- [[PAGES/Weekly Vlogs|Weekly Vlogs]]
 ----
 ## Creative Work 🦭
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
@@ -34,5 +23,12 @@ enableToc: false
 - [[PAGES/SUBPAGES/Regeneration|Regeneration 🌱]]
 - [[PAGES/SUBPAGES/Web|Web 🌐]]
 - [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
+----
+## Agartha
+
+**[Agartha.One](https://agartha.one)** is a global map of solarpunk, artistic, coliving communities, designed for curious minds to explore communal lifestyles outside of societal default.
+> *Leave the matrix with friends 🫂. Leave the matrix with styles 😎.*
 
 ----
+## Mars College
+[Mars College](https://mars.college/) is an artist residency & coliving community on the theme of radical self reliance, desert uniwheel riding, van life constructing and local knowledge exchange at the intersection of art and technology. It is where you'll find me at least 25% time of the year.
