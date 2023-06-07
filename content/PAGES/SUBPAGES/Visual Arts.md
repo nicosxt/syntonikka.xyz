@@ -3,6 +3,10 @@ title: Visual Arts
 enableToc: false
 ---
 
+### Weekly Vlogs
+[[PAGES/Weekly Vlogs|Weekly Vlogs]]
+
+----
 #### 3D Art 👽
 These are imaginary worlds in my head that was modeled with Blender, sometimes Oculus Medium, textured with Substance Painter and rendered in Unity.
 - [[PAGES/CONTENT/Imaginary Cities|Imaginary Cities]]

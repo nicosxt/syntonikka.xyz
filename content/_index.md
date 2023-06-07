@@ -13,10 +13,10 @@ enableToc: false
 
 ----
 ## Currently I'm Busy with...
-- Album Release - [**Loop.One**](https://syntonikka.bandcamp.com/album/loop-one) 🎉
-- [[PAGES/Weekly Vlogs|Weekly Vlogs]]
+- [Grid Free Minds](https://agartha1.substack.com/p/hello-world-from-agartha) -- First Blogpost!
 ----
 ## Work 🦭
+- Album Release - [**Loop.One**](https://syntonikka.bandcamp.com/album/loop-one) 🎉
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
 - [[PAGES/SUBPAGES/Music|Music 🎹]]
 - [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
