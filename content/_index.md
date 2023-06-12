@@ -9,6 +9,7 @@ enableToc: false
 
 </div>
 
+----
 ***Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, Music Production, DAO Consultancy and Fire Spinning.***
 
 ----
