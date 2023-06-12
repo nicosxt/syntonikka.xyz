@@ -4,4 +4,4 @@ Chef Umami is a 360 Immersive Sandbox Mobile Cooking Game.
 - ***Try Out the App [HERE](https://www.behance.net/gallery/61841231/Chef-Umami)***
 
 ### Game Preview
-![[Chef Umami Preview.mp4]]
+![[ASSETS/GAMES/Chef Umami Preview.mp4]]

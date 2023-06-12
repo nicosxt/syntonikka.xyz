@@ -15,8 +15,8 @@ These are what I do professionally & creatively, most of them involve being flue
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
 - [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
 - [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
-- [[PAGES/SUBPAGES/Music|Music 🎹]]
 - [[PAGES/SUBPAGES/Web|Web 🌐]]
+- [[PAGES/SUBPAGES/Music|Music 🎹]]
 - [[PAGES/SUBPAGES/Life Blog|Life Blog]]
 ----
 ### Protopia Building ⚖️
@@ -27,7 +27,7 @@ These are what I do professionally & creatively, most of them involve being flue
 ##### Agartha
 [Agartha.One](https://agartha.one) is a global map of solarpunk, artistic, coliving communities, designed for curious minds to explore communal lifestyles outside of societal default. 
 This is a project I founded at Mars College 2022. Explore more:
-- [Grid Free Minds](https://agartha1.substack.com/) -- Substack Blog
+- [Grid Free Minds](https://agartha1.substack.com/)
 - [[PAGES/SUBPAGES/ART/Agartha Concept Arts|Concept Design]]
 - [Wiki](https://www.notion.so/agarthamap/Agartha-913b57d888d44b86accabd9a75bd6a05)
 - [Metaverse Proposal](https://www.figma.com/file/Zoel6YzzWMF30ZrSYmlFxi/Agartha-Metaverse?type=design&node-id=0-1)
