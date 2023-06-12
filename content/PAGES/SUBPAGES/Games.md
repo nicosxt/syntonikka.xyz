@@ -3,7 +3,34 @@ title: Games
 enableToc: false
 ---
 
-- [Chef Umami](https://apps.apple.com/us/app/chef-umami/id1230818349) - an iOS sandbox cooking game ([concept art](https://www.behance.net/gallery/61841231/Chef-Umami))
+Things are so much more fun when gamified~ 🎮
+
+----
+
+### Mobile Games
+- [[PAGES/SUBPAGES/GAMES/Chef Umami|Chef Umami]] - an immersive sandbox cooking game
 - [Scratch My Itchy Back](https://play.google.com/store/apps/details?id=com.animatedreality.scratchmaback&hl=en_US&gl=US&pli=1) - a back scratching simulator
-- [Little Regen](https://syntonikka.itch.io/little-regen) - a sandbox regen village design platform
-- [[PAGES/CONTENT/Pocket Solar Emulator|Pocket Solar Emulator]] - an Solar energy calculator mobile app
+- [[PAGES/SUBPAGES/GAMES/Pocket Solar Emulator|Pocket Solar Emulator]] - a pocket solar energy calculator
+
+### PC Games
+- [[PAGES/SUBPAGES/GAMES/Little Regen|Little Regen]] - a sandbox regen village design mini game
+- [Opposites](https://www.youtube.com/watch?v=lpoj2RG_aqk&ab_channel=AnimatedReality) - a mini game about Taoism
+
+### VR Games
+- [Feed Me, Kiss Me, Love Me](https://www.youtube.com/watch?v=gUauTRq8XYI&t=94s&ab_channel=AnimatedReality) - a VR nanny simulator (winning Hackathon project of UnityNYC XR Hackathon)
+- [Cyber Basketball](https://www.youtube.com/watch?v=hFcs4sagdE8&ab_channel=AnimatedReality) - playing Basketball in a Cyber Space
+
+### Tutorials
+- [Learn to bake normal maps](https://www.youtube.com/watch?v=J1BG79r1CfM&ab_channel=AnimatedReality)
+- [Make AR with Lens Studio](https://www.youtube.com/watch?v=SBxhHcIHpEg&ab_channel=AnimatedReality)
+- [Make a Lemonade Game pt1](https://www.youtube.com/watch?v=NCLxoc6cNlA&ab_channel=AnimatedReality) -- made for [Rocket Club](https://rocketclub.com/)
+- [Make a Lemonade Game pt2](https://www.youtube.com/watch?v=-HftIUdkRKU&ab_channel=AnimatedReality) -- made for [Rocket Club](https://rocketclub.com/)
+
+### Tech Stack
+Procreate - Concept Art
+Blender - 3D
+Photoshop, Illustrator - UI
+Substance Painter - Texturing
+Ableton & Audacity - Sound Design
+Unity & Unreal - Standalone Games
+3JS & JS - Web Games

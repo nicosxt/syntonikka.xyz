@@ -1,0 +1,1 @@
+![[ASSETS/ART/pyramid_in_japan.JPG]]

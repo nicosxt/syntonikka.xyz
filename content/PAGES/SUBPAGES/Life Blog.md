@@ -4,8 +4,6 @@ enableToc: false
 ---
 
 Some of my thought processes and random art experiments:
-- [[PAGES/BLOG/AI Tools|AI Tools]]
-- [[PAGES/BLOG/Repetition|Repetition]]
+- [Mirro Articles](https://mirror.xyz/syntonikka.eth)
 - [[PAGES/BLOG/SD Faces|Stable Diffusion Faces]]
-- [[PAGES/BLOG/World Building|World Building]]
 - [[PAGES/Weekly Vlogs|Weekly Vlogs]]
