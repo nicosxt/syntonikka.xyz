@@ -4,13 +4,11 @@ enableToc: false
 ---
 
 <div style="width: 30%; margin: 0 auto">
-
 ![[ASSETS/profile.png]]
-
 </div>
 
 ----
-***Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, Music Production, DAO Consultancy and Fire Spinning.***
+@Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, Music Production, DAO Consultancy and Fire Spinning.
 
 ----
 ## Creative Technology & Art 🦭
@@ -44,6 +42,11 @@ This is a project I founded at Mars College 2022. Explore more:
 - Illustratior & Co-author of [Regenerative Village Builder's Handbook](https://treehousedao.earth/)!
 - Co-author of [RefiVillages](https://mirror.xyz/0x7340F1a1e4e38F43d2FCC85cdb2b764de36B40c0/ye6fI3GDY2FJA6mNbxru2L_97OjMalhdbVjKOunq2EI) for RefiDAO
 - Co-author of [Eco Villages as Solutions for the Next Century](https://medium.com/@agartha.one/eco-villages-as-solutions-for-the-next-century-fe82f7535afb)
-
+----
+### Contact
+- [Instagram](https://www.instagram.com/syntonikka/)
+- [Twitter](https://twitter.com/syntonikka)
+- [Linkedin](https://www.linkedin.com/in/nico-shi-b38b0b91/)
+- syntonikka@gmail.com
 ----
 *🌱 For Mother Nature and Our Fractal Universe 🪐*
