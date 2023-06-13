@@ -10,7 +10,7 @@ enableToc: false
 
 ----
 # Creative Technology & Art 🦭
-These are what I do professionally & creatively, most of them involve being fluent in XR & virtual world creative toolkits & having fun with them :)
+These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
 - [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
 - [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
@@ -20,8 +20,6 @@ These are what I do professionally & creatively, most of them involve being flue
 ----
 # Building Protopias ⚖️
 >The term "Protopia" was first used by Kevin Kelly, co-founder of Wired Magazine, to describe a state of becoming, a gradual improvement which is not utopian (perfect) or dystopian (horribly wrong), but a continuous process of betterment.
-
-*These projects represent my effort to create and support Protopias. 🫧*
 
 ### Agartha
 [Agartha.One](https://agartha.one) is a global map of artistic solarpunk coliving communities, designed for curious minds to explore non-traditional communal lifestyles.
