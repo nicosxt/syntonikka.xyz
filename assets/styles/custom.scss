@@ -29,3 +29,14 @@
 
 
 
+
+* {
+  img {
+    border: 2px solid var(--dark);
+    border-radius: 0;
+  }
+  video {
+    border: 2px solid var(--dark);
+    border-radius: 0;
+  }
+}

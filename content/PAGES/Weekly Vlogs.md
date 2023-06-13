@@ -1,8 +1,3 @@
----
-title: Weekly Vlogs
-enableToc: false
----
-
 ### Philosophy
 
 Like many artists I know, I struggle with having really big scopes for projects, and end up never finishing them because of the daunting final result.
