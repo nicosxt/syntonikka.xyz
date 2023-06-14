@@ -11,6 +11,7 @@ enableToc: false
 ----
 # Creative Technology & Art 🦭
 These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
+*This is my creative game dev reel with original soundtrack from my album [Loop.One](https://syntonikka.bandcamp.com/album/loop-one)*
 <iframe width="1057" height="595" src="https://www.youtube.com/embed/CFQj7OGfxww" title="7 Years of Game Development | Reel by Nico Shi @Syntonikka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
