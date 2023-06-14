@@ -1,7 +1,16 @@
-### 3D Art 👽
-These are imaginary worlds in my head that was modeled with Blender, sometimes Oculus Medium, textured with Substance Painter and rendered in Unity.
-- [[PAGES/SUBPAGES/ART/Imaginary Cities|Imaginary Cities]]
-- [[PAGES/SUBPAGES/ART/Psychedelitopia|Psychedelitopia]]
+## 3D Art 👽
+These are imaginary worlds in my head that was modeled with Blender, sometimes Oculus Medium, textured with Substance Painter and rendered in Unity / Blender.
+
+#### Imaginary Cities
+![[ASSETS/ART/green-bao-city-final-small-1024x1021.jpg]]
+![[ASSETS/ART/rose_render-small-1024x1024.jpg]]
+![[ASSETS/ART/_beedspalace-render-full.JPG]]
+
+#### Psychedelitopia
+![[ASSETS/ART/desert_wanderer.JPG]]
+![[ASSETS/ART/the_egg.JPG]]
+![[ASSETS/ART/conscious_surveilance.JPG]]
+
 ----
 ### Graphics Art
 - [[PAGES/BLOG/SD Faces|Stable Diffusion Experiments]]

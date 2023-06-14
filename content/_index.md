@@ -11,6 +11,8 @@ enableToc: false
 ----
 # Creative Technology & Art 🦭
 These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
+<iframe width="1057" height="595" src="https://www.youtube.com/embed/CFQj7OGfxww" title="7 Years of Game Development | Reel by Nico Shi @Syntonikka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - [[PAGES/SUBPAGES/Games|Games 🕹️]]
 - [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
 - [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
