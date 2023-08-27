@@ -1,4 +1,4 @@
-baseURL = "https://syntonikka.xyz"
+baseURL = "https://blog.syntonikka.xyz"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
