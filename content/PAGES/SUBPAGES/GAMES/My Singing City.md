@@ -18,7 +18,7 @@ Eventually it can be a sandbox where player gets to drag and drop any instrument
 
 ### Sequencer
 I think the sequencer is a good starting point, because it is easy enough to make and fun already. Although a sequencer doesn't have interesting functions such as ambient pad or dynamic vocal or cool synth effects, it's fun enough on its own. This my first iteration of a sequencer with singing agents.
-![[sequencerview.jpg]]
+![[ASSETS/GAMES/sequencerview.jpg]]
 
 See full gameplay here.
 https://twitter.com/syntonikka/status/1681429189684236288?s=20

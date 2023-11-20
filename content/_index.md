@@ -9,20 +9,12 @@ enableToc: false
 @Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, DAO Consultancy, Music Production, and Fire Spinning.
 
 ----
-# Creative Technology & Art 🦭
-These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
-*This is my creative game dev reel with original soundtrack from my album [Loop.One](https://syntonikka.bandcamp.com/album/loop-one)*
-<iframe width="100%" height="595" src="https://www.youtube.com/embed/CFQj7OGfxww" title="7 Years of Game Development | Reel by Nico Shi @Syntonikka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-- [[PAGES/SUBPAGES/Games|Games 🕹️]]
-- [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
-- [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
-- [[PAGES/SUBPAGES/Web|Web 🌐]]
-- [[PAGES/SUBPAGES/Music|Music 🎹]]
-- [[PAGES/SUBPAGES/Life Blog|Life Blog]]
-----
 # Building Protopias ⚖️
 >The term "Protopia" was first used by Kevin Kelly, co-founder of Wired Magazine, to describe a state of becoming, a gradual improvement which is not utopian (perfect) or dystopian (horribly wrong), but a continuous process of betterment.
+
+### BB Home
+Recently I acquired a piece of land in Bombay Beach, California. It has 2 abandoned trailers and some workshop spaces. The land is run-down and desolated.
+I'd love to turn this space to a co-living sanctuary and creative space. Read more at: [[PAGES/SUBPAGES/BBHome|BBHome]]
 
 ### Agartha
 [Agartha.One](https://agartha.one) is a global map of artistic solarpunk coliving communities, designed for curious minds to explore non-traditional communal lifestyles.
@@ -34,6 +26,19 @@ Explore more:
 
 ### Mars College
 [Mars College](https://mars.college/) is an artist residency & coliving community on the theme of radical self reliance, desert uniwheel riding, van life constructing and local knowledge exchange at the intersection of art and technology. It is where you'll possibly find me at least 25% time of the year.
+
+----
+# Creative Technology & Art 🦭
+These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
+*This is my creative game dev reel with original soundtrack from my album [Loop.One](https://syntonikka.bandcamp.com/album/loop-one)*
+<iframe width="100%" height="595" src="https://www.youtube.com/embed/CFQj7OGfxww" title="7 Years of Game Development | Reel by Nico Shi @Syntonikka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- [[PAGES/SUBPAGES/Games|Games 🕹️]]
+- [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
+- [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
+- [[PAGES/SUBPAGES/Web|Web 🌐]]
+- [[PAGES/SUBPAGES/Music|Music 🎹]]
+- [[PAGES/SUBPAGES/Life Blog|Life Blog]]
 
 ----
 *🤝 Work with me > syntonikka@gmail.com 👯‍♂️*
