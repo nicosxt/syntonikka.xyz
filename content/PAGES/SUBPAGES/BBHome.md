@@ -1,4 +1,4 @@
-A detailed plan for BBHome (working title), located at *9541 Avenue D, Bombay Beach, California.*
+A detailed plan for BBHome (working title)
 ![[ASSETS/BBHome/pink_trailer.png]]
 # Vision & Mission
 The vision for this place is an intentional creative co-living space, serving the following purposes:
@@ -30,6 +30,11 @@ With limited time and resources, I'm planning to prioritize one space at a time.
 - What are some ways to finance the space & rally muscle to help with cleaning & building? Maybe we can promise free stay in return in the future?
 - How can we benefit from rental income & offer creatives open access to utilities?
 - What kind of residencies can be hosted out there?
+- Name for the place??
+
+### Resources:
+- [Outdoor Pergola](https://www.instagram.com/tojagrid?igshid=MzMyNGUyNmU2YQ%3D%3D)
+- Zome service?
 
 
 
