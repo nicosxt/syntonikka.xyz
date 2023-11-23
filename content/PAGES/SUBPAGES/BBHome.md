@@ -10,7 +10,7 @@ The vision for this place is an intentional creative co-living space, serving th
 This is the current area floor plan (Link to [FIGMA](https://www.figma.com/file/XvEBjcIj5oBQI1Oia4NW4S/BB-Home?type=design&node-id=0%3A1&mode=design&t=nXmKb25nFEluBalB-1)):
 ![[ASSETS/BBHome/bbhome_Nov_2023.png]]
 This is vision for the space:
-![[bbhome_Nov_2023_plan.png]]
+![[ASSETS/BBHome/bbhome_Nov_2023_plan.png]]
 
 # To Do
 With limited time and resources, I'm planning to prioritize one space at a time.
@@ -35,8 +35,10 @@ With limited time and resources, I'm planning to prioritize one space at a time.
 ### Resources:
 - [Outdoor Pergola](https://www.instagram.com/tojagrid?igshid=MzMyNGUyNmU2YQ%3D%3D)
 - Zome service?
+- [[PAGES/SUBPAGES/BBHome_Pages/Trailers|Trailers]]
 
-
+### Meetings
+[[PAGES/SUBPAGES/BBHome_Pages/meeting 1 - Nov 23, 2023]]
 
 
 *To Be Continued...*
