@@ -74,3 +74,30 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: syntonikka@gmail.com
+
+## Privacy Policy for Kids
+
+#### Introduction
+
+This section of our Privacy Policy is dedicated to our users under the age of 12. In compliance with Apple's guidelines for apps in the Kids category, we prioritize the safety and privacy of our young users.
+
+#### Data Collection and Use
+
+Our app does not collect personally identifiable information or device information from children. We adhere strictly to Apple's guideline that prohibits transmitting such information to third parties for users in this age group.
+
+#### Parental Controls and Consent
+
+- **Parental Gates**: To ensure a safe environment, our app includes parental gates for activities like in-app purchases, external links, or permissions requests. These gates are designed to prevent unauthorized actions by children.
+- **Parental Consent**: For any data collection from children, we obtain verifiable parental consent in compliance with relevant regulations.
+
+#### Safety and Content
+
+We guarantee that all content in our app is age-appropriate, targeting the specific age band it is intended for (e.g., 5 and under, 6 to 8, or 9 to 11). Advertisements, if present, are human-reviewed for age appropriateness.
+
+#### Third-Party Links and Services
+
+External links in our app are suitable for children and are securely placed behind parental gates to prevent direct access by young users.
+
+#### Updates and Contact Information
+
+We will notify users of any changes to our Privacy Policy through updates on our website. For inquiries specifically related to the privacy of children, please contact us at syntonikka@gmail.com
