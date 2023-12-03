@@ -1,9 +1,6 @@
 Last updated: November 27, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
-
 ## Interpretation and Definitions
 
 ### Interpretation
@@ -20,7 +17,7 @@ For the purposes of this Privacy Policy:
     
 - **Application** refers to Pocket Beats, the software program provided by the Company.
     
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Pocket Beats.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Xintong Shi, also known as the alias Syntonikka, a solo developer that created Pocket Beats.
     
 - **Country** refers to: California, United States
     
@@ -43,9 +40,7 @@ For the purposes of this Privacy Policy:
 
 #### Personal Data
 
-While using Our Service, We do NOT ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
-
-- Usage Data
+While using Our Service, We do NOT ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to Usage Data.
 
 #### Usage Data
 
