@@ -1,3 +1,29 @@
+**WHY**
+Through simulating a world, we discover how our world is built, this is the beauty of engineering, because our world is also engineered.
+
+Games are simulations that are abstracted from our natural systems at large. They are these assumptions of a certain scenario applied to familiar (war), adjacently familiar (vampires) elements.
+
+---
+**Fast Prototypes**
+
+---
+**Competition -vs- Cooperation**
+
+——
+Skill-Based Play Upgrade
+How do we teach people to be 
+
+---
+**R&D**
+- [ ] Research about AI + Game Mechanisms
+- [ ] Make a little prompt test with Discord bots / GPT / whatever easiest
+- [ ] Come up with super small simulation game ideas  
+**Production**  
+- [ ] Prototype?
+
+---
+**Worlding**
+
 A fun person to explore and to read:
 - http://iancheng.com/
 

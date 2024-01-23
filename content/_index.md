@@ -5,42 +5,26 @@ enableToc: false
 <div style="width: 30%; margin: 0 auto;">
 ![[ASSETS/profile_sd.jpg]]
 </div>
+My mission is to building spaces where creativity, community, and technology catalyzes a movement towards grid-free worlds. 
 
-@Syntonikka is a multimedia artist who swirls around Mixed Realities, Video Game Development, Virtual World Building, DAO Consultancy, Music Production, and Fire Spinning.
+These spaces are:
+- Physical Spaces for communities to gather
+- Virtual Spaces to run simulations with AI agents
+- Artistic Spaces for self expressions
 
-----
-# Building Protopias ⚖️
->The term "Protopia" was first used by Kevin Kelly, co-founder of Wired Magazine, to describe a state of becoming, a gradual improvement which is not utopian (perfect) or dystopian (horribly wrong), but a continuous process of betterment.
+Please see my [[PAGES/BIO|BIO]] to learn more <3
 
-### BB Home
-Recently I acquired a piece of land in Bombay Beach, California. It has 2 abandoned trailers and some workshop spaces. The land is run-down and desolated.
-I'd love to turn this space to a co-living sanctuary and creative space. Read more at: [[PAGES/SUBPAGES/BBHome|BBHome]]
+---
+# Mars College 2024
+**Courses**
+- [[PAGES/MARS/Lifestyle Engineering/Lifestyle Engineering|Lifestyle Engineering]]
 
-### Agartha
-[Agartha.One](https://agartha.one) is a global map of artistic solarpunk coliving communities, designed for curious minds to explore non-traditional communal lifestyles.
-This is a project I founded at Mars College 2022, aiming to help connect individuals to pockets of freedom all around the world. 
-Explore more:
-- [Grid Free Minds - Substack](https://agartha1.substack.com/)
-- [Wiki](https://www.notion.so/agarthamap/Agartha-913b57d888d44b86accabd9a75bd6a05)
-- [Concept Arts](https://www.notion.so/agarthamap/Concept-Arts-d12abfa30aac47c3b8a37e9aa1c19c16)
+**Projects**
+- [[PAGES/MARS/An Operational Manual for an Off-grid Pop-up College|An Operational Manual for an Off-grid Pop-up College]]
+- [[PAGES/MARS/Mars.Sim|Mars.Sim]]
 
-### Mars College
-[Mars College](https://mars.college/) is an artist residency & coliving community on the theme of radical self reliance, desert uniwheel riding, van life constructing and local knowledge exchange at the intersection of art and technology. It is where you'll possibly find me at least 25% time of the year.
+**Finished**
+- [[PAGES/MARS/Mars Hack/Mars Hack 01|Mars Hack 01]]
 
-----
-# Creative Technology & Art 🦭
-These are what I do professionally & creatively, most of them involve having fun in exploring XR & virtual world creations :)
-*This is my creative game dev reel with original soundtrack from my album [Loop.One](https://syntonikka.bandcamp.com/album/loop-one)*
-<iframe width="100%" height="595" src="https://www.youtube.com/embed/CFQj7OGfxww" title="7 Years of Game Development | Reel by Nico Shi @Syntonikka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-- [[PAGES/SUBPAGES/Games|Games 🕹️]]
-- [[PAGES/SUBPAGES/Augmented Reality|Augmented Reality 👻]]
-- [[PAGES/SUBPAGES/Visual Arts|Visual Arts 👽]]
-- [[PAGES/SUBPAGES/Web|Web 🌐]]
-- [[PAGES/SUBPAGES/Music|Music 🎹]]
-- [[PAGES/SUBPAGES/Life Blog|Life Blog]]
-
-----
-*🤝 Work with me > syntonikka@gmail.com 👯‍♂️*
-
+---
 *🌱 For Mother Nature and Our Fractal Universe 🪐*

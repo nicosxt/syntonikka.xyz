@@ -17,6 +17,8 @@ These are imaginary worlds in my head that was modeled with Blender, sometimes O
 - [[PAGES/SUBPAGES/ART/CityDAO Merch|CityDAO Merch]]
 - [[PAGES/SUBPAGES/GAMES/Pocket Solar Emulator|Pocket Solar Emulator]]
 - [Agartha Concept Arts](https://www.notion.so/agarthamap/Concept-Arts-d12abfa30aac47c3b8a37e9aa1c19c16)
+- [Agartha](https://agartha.one) - UI/UX Design
+- [DAO Crossing](https://daocrossing.xyz/) - Hackathon winning project for ETHNYC, 2022, UI/UX & Concept Design
 ----
 ### VJ
 I had a lot of fun playing with TouchDesigner.

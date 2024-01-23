@@ -7,7 +7,7 @@ Everything becomes so much more fun when gamified~ 🎮
 - [[PAGES/SUBPAGES/GAMES/Chef Umami|Chef Umami]] - an immersive sandbox cooking game
 - [Scratch My Itchy Back](https://play.google.com/store/apps/details?id=com.animatedreality.scratchmaback&hl=en_US&gl=US&pli=1) - a back scratching simulator
 - [Opposites](https://www.youtube.com/watch?v=lpoj2RG_aqk&ab_channel=AnimatedReality) - a mini game about Taoism
-- [[PocketBeats]]
+- [[PAGES/SUBPAGES/GAMES/PocketBeats|Pocket Beats]] - an ios music beat making game
 ## Desktop
 - [[PAGES/SUBPAGES/GAMES/Little Regen|Little Regen]] - a Sandbox Regenerative Village Design Mini Game
 - [[PAGES/SUBPAGES/GAMES/W3CR Web3 Residency|W3CR Web3 Residency]] - a Virtual Eco Village
