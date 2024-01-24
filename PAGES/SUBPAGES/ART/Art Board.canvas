@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"44821034aea76424","x":836,"y":-166,"width":400,"height":400,"type":"file","file":"ASSETS/ART/Quantum Flower/progress3.png"},
-		{"id":"e7e0042ee0f7077d","x":1281,"y":-166,"width":400,"height":400,"type":"file","file":"ASSETS/ART/Quantum Flower/progress4.png"},
-		{"id":"0115b42e1eea305c","x":-54,"y":-166,"width":400,"height":400,"type":"file","file":"ASSETS/ART/Quantum Flower/progress2.jpg"},
-		{"id":"5acdf5bc7032c3f6","x":391,"y":-166,"width":400,"height":306,"type":"file","file":"ASSETS/ART/Quantum Flower/progress1.png"}
-	],
-	"edges":[]
-}
