@@ -1,3 +1,4 @@
+# Smart Goals
 
 - Specific - What will be accomplished? What actions will you take? 
 - Measurable - How will you measure the success of the goal? 
